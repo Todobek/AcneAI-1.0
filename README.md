@@ -10,6 +10,7 @@
 ```shell
 pip install -r requirement.txt
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+Замените api_key на ваш API ключ от гпт
 ```
 ### Как запустить проект
 ```shell
