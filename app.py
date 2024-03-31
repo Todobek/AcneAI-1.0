@@ -10,7 +10,7 @@ import cv2
 import matplotlib.pyplot as plt
 import openai
 
-api_key = "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"
+api_key = "API_KEY"
 openai.api_key = api_key
 
 routine = False
